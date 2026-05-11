@@ -1,1 +1,1 @@
-# Security-scanner
+# security-scanner
